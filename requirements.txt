@@ -1,0 +1,10 @@
+pandas
+matplotlib
+tensorflow
+keras_preprocessing
+opencv-python
+numpy
+scikit-learn
+seaborn
+streamlit
+gtts
