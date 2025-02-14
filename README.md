@@ -24,8 +24,8 @@ Ensure you have Python 3.10 installed along with the required dependencies.
 
 ### Clone the Repository
 ```bash
- git clone https://github.com/souravms256/ASL-Sign-language-Conversion.git
- cd ASL-Sign-language-Conversion
+ git clone https://github.com/souravms256/asl-sign-language-conversion-to-text-and-speech.git
+ cd asl-sign-language-conversion-to-text-and-speech
 ```
 
 ### Install Dependencies
