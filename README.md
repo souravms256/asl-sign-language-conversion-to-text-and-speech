@@ -57,9 +57,4 @@ Contributions are welcome! To contribute:
 3. Commit your changes.
 4. Push to the branch and create a Pull Request.
 
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any queries or support, contact: **your-email@example.com**
 
